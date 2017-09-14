@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/routes/index.ts"],"names":[],"mappings":";;;;;AAIA,iCAA4B","sourcesContent":["/**\n * routes/index.ts\n */\n\nexport * from './mainRoute';\n"]}
